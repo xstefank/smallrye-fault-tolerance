@@ -1,3 +1,5 @@
+Ladislav didn't do this change!!!
+
 :ci: https://github.com/smallrye/smallrye-fault-tolerance/actions?query=workflow%3A%22SmallRye+Build%22
 :sonar: https://sonarcloud.io/dashboard?id=smallrye_smallrye-fault-tolerance
 
